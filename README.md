@@ -8,7 +8,7 @@ It is **recommended** to open the notebooks in Google Colab, to correctly displa
 > A comparison between classical bag-of-words and DL models (LSTM recurrent neural network and RoBERTa attention-based transformer) to classify the polarity of english Amazon reviews. The accuracy of the best model is over 96%, with consistent precision and recall.
 
 * [Computer vision - brain tumor detector using ResNet](https://github.com/AlCatt91/datascience-portfolio/blob/main/brain_tumor_detector_with_resnet.ipynb)
-> We build a residual neural network which analyzes brain xray scans of patients and detects the presence of brain tumors. Trained on around 5000 images, the model reaches an accuracy of over 99%.
+> We build a residual neural network which analyzes brain xray scans of patients and detects the presence of brain tumors. Trained on around 4000 images, the model reaches an accuracy of over 99%.
 
 
 
