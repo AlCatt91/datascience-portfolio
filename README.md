@@ -15,4 +15,4 @@ It is **recommended** to open the notebooks in Google Colab, to correctly displa
 ...and more on [Kaggle](https://www.kaggle.com/alcatt):
 
 3. [Credit churn forecast](https://www.kaggle.com/alcatt/credit-churn-model-auc-99-recall-97-acc-96)
-> In-depth exploratory data analysis of a dataset of features related to bank customers with a credit card. We compare different tree-based learning models, like Random Forest and XGBoost, and neural networks to build a classifier which predicts whether a customer will churn. The best model has an AUC score of 99% and detects churning customers with a 97% recall.
+> In-depth EDA of a dataset of 20 features related to bank customers with a credit card. We compare different tree-based learning models, like Random Forest and XGBoost, and neural networks to build a classifier which predicts whether a customer will churn. The best model has an AUC score of 99% and detects churning customers with a 97% recall.
